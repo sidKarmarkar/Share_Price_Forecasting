@@ -31,7 +31,7 @@ Stock price forecasting is a critical task in finance, aiming to predict future 
 - `recurrent_neural_network.py`: The main script for building, training, and evaluating the RNN model.
 - `stock_dataset.numbers`: Historical stock prices dataset used for training.
 - `stock_dataset_test.numbers`: Historical stock prices dataset used for testing.
-- `requirements.txt`: List of required Python libraries.
+
 
 ## Data Preparation
 
